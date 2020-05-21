@@ -6,6 +6,5 @@ more text
 
 ## Heading 2
 
-I hope this isn't a problem
+This will cause trouble
 
-another change
